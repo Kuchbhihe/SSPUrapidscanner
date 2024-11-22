@@ -45,7 +45,8 @@
 ## Usage 
  `python3 rapidscan.py example.com`
 
-
+##To Clone
+- https://github.com/Kuchbhihe/SSPUrapidscanner.git
 
 ## Contribution
 - Create your feature branch: `git checkout -b my-new-feature`
