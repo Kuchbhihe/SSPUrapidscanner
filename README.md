@@ -1,4 +1,8 @@
-
+## Authors
+- Jugalkumar Patel
+- Manasi Rajput
+- Ved Patel
+- Shweta Narkhede
 
 
 
